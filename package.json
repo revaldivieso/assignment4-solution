@@ -1,0 +1,24 @@
+{
+  "name": "assignment4-solution",
+  "version": "1.0.0",
+  "description": "coursera asignacion 4",
+  "main": "script.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revaldivieso/assignment4-solution.git"
+  },
+  "author": "vianny reyes <reyesvi92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revaldivieso/assignment4-solution/issues"
+  },
+  "homepage": "https://github.com/revaldivieso/assignment4-solution#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
